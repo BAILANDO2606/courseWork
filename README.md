@@ -30,8 +30,6 @@
 
 ## ⚠️ Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
-
 
 ## 🚨 Tutorial
 
@@ -70,11 +68,6 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
-```
 
 **Installation**
 
